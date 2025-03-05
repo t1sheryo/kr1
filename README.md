@@ -1,7 +1,7 @@
 # Репозиторий КР1
 Это репозиторий для выполнения контрольной работы 1 по ТПМП
 ## Установка 
-Исходный код программы находится в каталоге: https://github.com/t1sheryo/kr1/tree/main/src
+Исходный код программы находится в каталоге: https://github.com/t1sheryo/kr1/tree/development/src
 Если не установлен gcc:
 sudo apt update 
 sudo apt install build-essential
