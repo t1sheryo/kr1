@@ -2,6 +2,10 @@
 Это репозиторий для выполнения контрольной работы 1 по ТПМП
 ## Установка 
 Исходный код программы находится в каталоге: https://github.com/t1sheryo/kr1/tree/main/src
+Если не установлен gcc:
+sudo apt update 
+sudo apt install build-essential
+gcc --version(чтобы проверить, что установка прошла успешно)
 Сборка приложения выполняется следующими командами:
 cd src
 gcc main.c -o main
